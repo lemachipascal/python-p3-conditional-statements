@@ -23,7 +23,7 @@
   groups code blocks by indentation level.
 - **Function**: a named code block that performs a sequence of actions when it
   is called.
-- **Scope**: the area in your program where a specific variable can be called.
+- **Scope**: the area in your program where a specific variable can be called
 
 ---
 
